@@ -1941,6 +1941,9 @@ def home():
         "message": "CrewAI Projects API is running!",
         "total_agents": 10
     }
+@app.get("/health")
+def health():
+    return {"status": "ok"}
 
 
 # Agent 1 - Blog Post Crew
