@@ -5,3 +5,4 @@ ddgs
 requests
 beautifulsoup4
 pandas
+python-multipart
