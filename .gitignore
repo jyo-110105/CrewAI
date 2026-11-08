@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+blog_post.md
+report.md
+notes.md
+final.md
+leads.csv
+bug_triage_results.csv
+linkedin_post.txt
+twitter_thread.txt
+newsletter.txt

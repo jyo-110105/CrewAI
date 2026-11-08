@@ -1,0 +1,7 @@
+crewai
+fastapi
+uvicorn[standard]
+ddgs
+requests
+beautifulsoup4
+pandas
